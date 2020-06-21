@@ -1,3 +1,4 @@
+[![Build Status](https://deanbrighton.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/DeanBrighton.mslearn-tailspin-spacegame-web?branchName=master)](https://deanbrighton.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
